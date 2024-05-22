@@ -1,0 +1,14 @@
+C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\seesharp-projects.exe
+C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\seesharp-projects.deps.json
+C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\seesharp-projects.runtimeconfig.json
+C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\seesharp-projects.dll
+C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\seesharp-projects.pdb
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.AssemblyInfoInputs.cache
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.AssemblyInfo.cs
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.csproj.CoreCompileInputs.cache
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.dll
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\refint\seesharp-projects.dll
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.pdb
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.genruntimeconfig.cache
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\ref\seesharp-projects.dll
