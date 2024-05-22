@@ -6,11 +6,14 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-            System.Console.Write("What is your name: ");
-            string? name = Console.ReadLine();
+            System.Console.WriteLine("The how to of Concurrency in C#");
 
-            System.Console.WriteLine($"Hello {name}");
+            string str = "bern";
 
+            Action act= () => System.Console.WriteLine(str);
+            act();
+            
+            Console.ReadLine();
         }
     }
 }
