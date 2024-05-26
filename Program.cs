@@ -11,19 +11,18 @@ namespace seesharp_projects
         {
            // Create an ArrayList class included in the System.Collections ]
 
-           ArrayList arlist = new ArrayList();
+           List<string> list = new List<string>();
 
-           var Barlist = new ArrayList();
+           list.AddRange(new string[] { "Bern", "Joe", "Smith", "Anne",});
+        
+          var minimm =   list.MinBy(x => x.Length);
+          var maximm =  list.MaxBy(x => x.Last(x => x.CompareTo(x) > 0));
 
-           Barlist.Add("John");
+        
 
-           Barlist.Add(1);
-           Barlist.Add(2);
-           Barlist.Add(3);
-           Barlist.Add(4);
 
-           foreach (var item in Barlist){
-                Console.WriteLine(item.ToString());
+           foreach (string s in list){
+            System.Console.WriteLine(s);
            }
 
         }
