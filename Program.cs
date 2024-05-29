@@ -10,7 +10,12 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-           
+           static void MyMethod(string fname, int age){
+                System.Console.WriteLine(fname + " " + age);
+           }
+
+            MyMethod("Jason", 31);
+
 
         }
     }
