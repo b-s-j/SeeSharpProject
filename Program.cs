@@ -11,11 +11,21 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-            System.Console.Clear();
-            System.Console.WriteLine("Currency: {0:c}", 23.455);
-            System.Console.WriteLine("Pad with 0's: {0:d5}", 23);
-            System.Console.WriteLine("3 Decimals: {0:f3}", 23.45555);
-            System.Console.WriteLine("Commas: {0:n4}", 2355);
+           static void MyMethod(string fname, int age){
+                System.Console.Clear();
+                System.Console.WriteLine(fname + " " + age);
+           }
+
+            MyMethod("Jason", 31);
+
+            System.Console.WriteLine(AddNumber(2, 1));
+    
+        }
+        public static int AddNumber(int a, int b)
+        {
+            int sum = a + b;
+            return  sum ;
+           
         }
     }
 }
