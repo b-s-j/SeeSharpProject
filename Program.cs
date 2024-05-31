@@ -11,21 +11,16 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-           static void MyMethod(string fname, int age){
-                System.Console.Clear();
-                System.Console.WriteLine(fname + " " + age);
-           }
+            bool canIvote = true;
 
-            MyMethod("Jason", 31);
+            System.Console.WriteLine($"Biggest integer:  { 0 }", int.MaxValue);
+            System.Console.WriteLine($"Biggest integer:  { 0 }", int.MinValue);
+            
+            System.Console.WriteLine("Biggest long: {0}", long.MaxValue);
+            System.Console.WriteLine("Biggest long: {0}", long.MinValue);
 
-            System.Console.WriteLine(AddNumber(2, 1));
-    
-        }
-        public static int AddNumber(int a, int b)
-        {
-            int sum = a + b;
-            return  sum ;
-           
+            decimal Pi = 3.14159262342342242342343M;
+            System.Console.WriteLine(Pi);
         }
     }
 }
