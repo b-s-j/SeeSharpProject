@@ -15,10 +15,10 @@ namespace seesharp_projects
            
             var names = new string [] { "Scott", "Anna", "Felipe"};
             names = [..names, "Anne", "Damian", "Bern",];
-
             foreach (var name in names)
             {
-                System.Console.WriteLine("" + name[^2]);
+                
+                System.Console.WriteLine(name[^2]);
             }
         }
     }
