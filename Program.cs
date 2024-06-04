@@ -12,14 +12,13 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-           
-            var names = new string [] { "Scott", "Anna", "Felipe"};
-            names = [..names, "Anne", "Damian", "Bern",];
-            foreach (var name in names)
-            {
-                
-                System.Console.WriteLine(name[^2]);
-            }
+            int a = 18;
+            int b = 6;
+            int c = a + b;
+            c = a - b;
+            c = a * b;
+            c = a / b;
+            System.Console.WriteLine(c);
         }
     }
 }
