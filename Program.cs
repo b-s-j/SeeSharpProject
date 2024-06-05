@@ -12,13 +12,8 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-            int a = 18;
-            int b = 6;
-            int c = a + b;
-            c = a - b;
-            c = a * b;
-            c = a / b;
-            System.Console.WriteLine(c);
+          // String Formatting
+           System.Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
         }
     }
 }
