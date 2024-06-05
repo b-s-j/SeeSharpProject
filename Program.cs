@@ -15,6 +15,7 @@ namespace seesharp_projects
            
           //Reseting my Testing Environment project
           System.Console.WriteLine("Hello Reset ");
+          System.Console.WriteLine("trying different commits on vs code so I can understand how the right commit works in different ways:");
         }
     }
 }
