@@ -12,7 +12,21 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {   
-            Console.Clear();
+            // try{
+
+            // }catch{
+
+            // }
+            try
+            {
+                Console.Clear();
+            }
+            catch (IOException ex)
+            {
+                // Handle the IOException here
+                Console.WriteLine($"IOException occurred: {ex.Message}");
+            }
+
             System.Console.WriteLine("Number to words converter \n\n\n");
             System.Console.Write("Enter a number: ");
             int number = Convert.ToInt32(Console.ReadLine()); // You can change this number to any integer you want to convert
