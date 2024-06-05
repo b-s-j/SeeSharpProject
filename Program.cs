@@ -74,5 +74,5 @@ namespace seesharp_projects
             }
         }
 
-    }q
+    }
 }
