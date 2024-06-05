@@ -70,10 +70,9 @@ namespace seesharp_projects
                             groupWords.Append("-" + UnitsMap[number % 10]);
                     }
                 }
-
                 return groupWords.Append(" " + scale + " ").ToString();
             }
         }
 
-    }
+    }q
 }
