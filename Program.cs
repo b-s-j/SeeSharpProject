@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using Humanizer;
-
 
 namespace seesharp_projects
 {
     class Program 
     {
-        static void Main(string[] args) =>
+        static void Main(string[] args)
+        {
+            System.Console.Write("What is your name: ");
+            string? name = Console.ReadLine();
 
-            // installing package Humanizer on nuget 
-            // There might have some changes on this commits using git lens 
-            
+            System.Console.WriteLine($"Hello {name}");
+
+        }
     }
 }

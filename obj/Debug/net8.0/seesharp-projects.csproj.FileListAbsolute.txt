@@ -13,6 +13,7 @@ C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.pdb
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.genruntimeconfig.cache
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\ref\seesharp-projects.dll
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.sourcelink.json
+<<<<<<< HEAD
 C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\Humanizer.dll
 C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\ar\Humanizer.resources.dll
@@ -64,3 +65,5 @@ C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\zh-Hans\Humanizer.resou
 C:\Users\bern\devDocs\seesharp-projects\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.csproj.AssemblyReference.cache
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp.2FCA3F37.Up2Date
+=======
+>>>>>>> 119c9c7a8e4cd8520c2656371c9138b5c9e438be
