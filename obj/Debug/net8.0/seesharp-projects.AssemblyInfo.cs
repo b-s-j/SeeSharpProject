@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seesharp-projects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb42c4e6ece5c8e9c4f64f54320927413e39bfbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a3203028307606bbbe6f0ba8d228c38349ac54")]
 [assembly: System.Reflection.AssemblyProductAttribute("seesharp-projects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seesharp-projects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
