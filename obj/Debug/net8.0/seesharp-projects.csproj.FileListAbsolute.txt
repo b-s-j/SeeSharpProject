@@ -12,3 +12,4 @@ C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\refint\seesharp-project
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.pdb
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.genruntimeconfig.cache
 C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\ref\seesharp-projects.dll
+C:\Users\bern\devDocs\seesharp-projects\obj\Debug\net8.0\seesharp-projects.sourcelink.json
