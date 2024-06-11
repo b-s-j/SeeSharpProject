@@ -6,10 +6,9 @@ namespace seesharp_projects
     {
         static void Main(string[] args)
         {
-            System.Console.Write("What is your name: ");
-            string? name = Console.ReadLine();
+            // Access Modifiers 
 
-            System.Console.WriteLine($"Hello {name}");
+        
 
         }
     }
