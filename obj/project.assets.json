@@ -1358,11 +1358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bern\\devDocs\\seesharp-projects\\seesharp-projects.csproj",
+      "projectUniqueName": "C:\\code\\seesharp-projects\\seesharp-projects.csproj",
       "projectName": "seesharp-projects",
-      "projectPath": "c:\\Users\\bern\\devDocs\\seesharp-projects\\seesharp-projects.csproj",
+      "projectPath": "C:\\code\\seesharp-projects\\seesharp-projects.csproj",
       "packagesPath": "C:\\Users\\bern\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bern\\devDocs\\seesharp-projects\\obj\\",
+      "outputPath": "C:\\code\\seesharp-projects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
