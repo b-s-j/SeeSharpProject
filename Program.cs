@@ -8,9 +8,12 @@ namespace seesharp_projects
         private int numberId;
         static void Main(string[] args)
         {
-            // Access Modifiers 
+            string firstFriend = "scott";
+
+            string secondFriend = "David";
             
-            
+            System.Console.WriteLine(@$"My '@' friends are 
+            {firstFriend} and {secondFriend}");
 
         }
     }
