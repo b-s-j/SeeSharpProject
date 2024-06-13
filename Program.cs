@@ -9,7 +9,7 @@ namespace seesharp_projects
         static void Main(string[] args)
         {
             // Access Modifiers 
-            numberId = new numberId() { Id = 1,} = 1;
+            
             
 
         }
