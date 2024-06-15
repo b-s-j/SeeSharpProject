@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace seesharp_projects
@@ -7,22 +8,20 @@ namespace seesharp_projects
   {
     static void Main(string[] args)
     {
-      int counter = 0;
-      do
+      var names = new List<string> 
       {
-        Console.WriteLine(counter);
-        counter++;
-      } while (counter <= 10);
+        "Scott",
+        "Anna",
+        "Tommy",
+        "jerry"
+      };
 
+      names.Add("David");
+      names.Add("Damian");
+      names.Add(@$"{names}");
 
-     int length = 10;
-
-      for (int i = 0; 
-                i < length; 
-                i++
-          )
-      {
-        System.Console.WriteLine(i);
+      foreach (var name in names){
+        Console.WriteLine($"Hello {name.ToUpper()}!");
       }
     }
   }
