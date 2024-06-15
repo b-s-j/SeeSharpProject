@@ -1,20 +1,18 @@
 ﻿using System;
-using System.ComponentModel;
+using System.Collections.Generic;
+
 
 namespace seesharp_projects
 {
     class Program 
     {
-        private int numberId;
-        static void Main(string[] args)
-        {
-            string firstFriend = "scott";
+       static void Main(string[] args){
 
-            string secondFriend = "David";
-            
-            System.Console.WriteLine(@$"My '@' friends are 
-            {firstFriend} and {secondFriend}");
+        var projects = new List<string>();
 
-        }
+        projects.Add("Hello");
+
+        System.Console.WriteLine(projects.First());
+       }
     }
 }
