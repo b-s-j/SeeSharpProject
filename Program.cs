@@ -8,11 +8,10 @@ namespace seesharp_projects
     {
        static void Main(string[] args){
 
-        var projects = new List<string>();
-
-        projects.Add("Hello");
-
-        System.Console.WriteLine(projects.First());
+        Messages.Hello();
+        Messages.Waiting();
+        Messages.Bye();
+        
        }
     }
 }
