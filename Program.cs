@@ -13,11 +13,11 @@ namespace seesharp_projects
     
     static void Main(string[] args)
     {
-        Console.WriteLine($"Command Line: {Environment.CommandLine}");
-        Console.WriteLine($"Current Directory: {Environment.CurrentDirectory}");
-        Console.WriteLine($"Machine Name: {Environment.MachineName}");
-        Console.WriteLine($"OS Version: {Environment.OSVersion}");
-        Console.WriteLine($"User Name: {Environment.UserName}");
+      // shorthand if else statement conditionals
+        int saleAmount = 900;
+        int discount = saleAmount > 1000? 100 : 50;
+        Console.WriteLine($"Discount: {discount}");
     }
   }
 }
+
