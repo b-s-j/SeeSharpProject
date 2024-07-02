@@ -10,15 +10,13 @@ namespace seesharp_projects
 {
   class Program
   {
-    private string color;
+    public enum ConsoleColor;
     static void Main(string[] args)
     {
       // Acceess Modifiers 
       
       
-      Program Mycolor = new Program();
-      var magent = ConsoleColor.Green;
-      Mycolor.color = magent;
+    
 
       System.Console.WriteLine(Mycolor.color);
     }
