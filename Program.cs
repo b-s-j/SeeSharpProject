@@ -3,21 +3,21 @@ using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 using System.Net;
+using System.Security.Cryptography.X509Certificates;
 
 
 namespace seesharp_projects
 {
   class Program
   {
-
-    
     static void Main(string[] args)
     {
-      // shorthand if else statement conditionals
-        int saleAmount = 900;
-        int discount = saleAmount > 1000? 100 : 50;
-        Console.WriteLine($"Discount: {discount}");
+      IEnumerable<string Code, string? Culture, string? Value)> GetTransformed(IEnumerable<Translation> translation)
+      {
+        
+      }
     }
   }
+
 }
 
