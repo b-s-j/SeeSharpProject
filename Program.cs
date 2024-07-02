@@ -10,12 +10,17 @@ namespace seesharp_projects
 {
   class Program
   {
+    private string color;
     static void Main(string[] args)
     {
-      IEnumerable<string Code, string? Culture, string? Value)> GetTransformed(IEnumerable<Translation> translation)
-      {
-        
-      }
+      // Acceess Modifiers 
+      
+      
+      Program Mycolor = new Program();
+      var magent = ConsoleColor.Green;
+      Mycolor.color = magent;
+
+      System.Console.WriteLine(Mycolor.color);
     }
   }
 
